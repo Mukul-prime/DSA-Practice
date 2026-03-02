@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two_Pointer/Two_Pointer.iml" filepath="$PROJECT_DIR$/Two_Pointer/Two_Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoDarray/twoDarray.iml" filepath="$PROJECT_DIR$/twoDarray/twoDarray.iml" />
     </modules>
   </component>
 </project>
