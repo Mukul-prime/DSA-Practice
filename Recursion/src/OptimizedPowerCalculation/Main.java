@@ -17,6 +17,9 @@ class Main {
     public static long power(int x, int y)
     {
         if(y==0)return 1;
-        return x * power(x , y-1);
+      long half = power(x,y/2);
+      long ans = half*half;
+      if(y%2==1) ans*=x;
+      return ans;
     }
 }
