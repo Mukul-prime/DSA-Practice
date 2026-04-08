@@ -3,20 +3,20 @@ package Search_on_rotate_and_sorted_Array;
 import java.util.*;
 
 class Accio{
-//    static int MinElement(int n,int[] arr){
-//        int s = 0 ;
-//        int e = n-1 ;
-//        while(s<=e){
-//            int mid = s+(e-s)/2;
-//            if(arr[mid]>arr[mid+1]){
-//                return arr[mid];
-//            }
-//            else if()
-//
-//
-//
-//        }
-//    }
+    static int MinElement(int n,int[] arr){
+        int s = 0 ;
+        int e = n-1 ;
+        while(s<=e){
+            int mid = s+(e-s)/2;
+            if(arr[mid]>arr[mid+1]){
+                return arr[mid];
+            }
+            else if()
+
+
+
+        }
+    }
 }
 
 public class Main {
